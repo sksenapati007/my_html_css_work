@@ -1,7 +1,7 @@
 ## Welcome to Shubhendu's Presentation Logics Page
-All my work on HTML CSS & JS. 
+All my work on HTML CSS JS & Angular. 
 
-### Link to My HTML CSS & JS Projects
+### Link to My Angualr HTML CSS & JS Projects
 
 **Structured page using HTML 5 Properties**
 ```markdown
@@ -31,6 +31,10 @@ All my work on HTML CSS & JS.
  5. Array Object, Date Object
  6. document : addEventListener, innerHTML, insertAdjacentHTML, querySelector, getElementById, getElementsBy(Class,TagName)
 ```
+**Angular Assignments**
+-[**Assignment 1 Link**](https://angular-assignment-1.web.app/) 
+-[**Assignment 2 Link**](https://angular-assignment-2.web.app/) 
+-[**Assignment 3 Link**](https://angular-assignment-3.web.app/) 
 
 
 -[**Site 1 Link**](websites/Site 1/htmlfive.html) 
