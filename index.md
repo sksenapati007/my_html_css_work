@@ -33,11 +33,11 @@ All my work on HTML CSS JS & Angular.
 ```
 **Angular Assignments**
 
--[**Assignment 1 Link**](https://angular-assignment-1.web.app/) \
+-[**Assignment 1 Link**](https://angular-assignment-1.web.app/) 
 
--[**Assignment 2 Link**](https://angular-assignment-2.web.app/) \
+-[**Assignment 2 Link**](https://angular-assignment-2.web.app/) 
 
--[**Assignment 3 Link**](https://angular-assignment-3.web.app/) \
+-[**Assignment 3 Link**](https://angular-assignment-3.web.app/) 
 
 
 
