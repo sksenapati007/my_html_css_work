@@ -61,6 +61,7 @@ Use **Username** shubhendu and **Password** abc123
 
 **Light Mode**
 ![light-mode](/images/light.png)
+
 **Dark Mode**
 ![dark-mode](/images/dark.png)
 
