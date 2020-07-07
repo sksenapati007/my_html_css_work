@@ -1,7 +1,7 @@
 ## Welcome to Shubhendu's Presentation Logics Page
 All my work on HTML CSS JS & Angular. 
 
-### Link to My Angualr HTML CSS & JS Projects
+### Link to My Angular HTML CSS & JS Projects
 
 **Structured page using HTML 5 Properties**
 ```markdown
@@ -31,8 +31,9 @@ All my work on HTML CSS JS & Angular.
  5. Array Object, Date Object
  6. document : addEventListener, innerHTML, insertAdjacentHTML, querySelector, getElementById, getElementsBy(Class,TagName)
 ```
-**Angular Assignments**
-
+## Angular Assignments
+ **Deployed using Firebase**
+ 
 -[**Assignment 1 Link**](https://angular-assignment-1.web.app/) 
 ![Assignment-1](/images/assgn1_1.png)
 -[**Assignment 2 Link**](https://angular-assignment-2.web.app/) 
@@ -41,11 +42,7 @@ All my work on HTML CSS JS & Angular.
 ![Assignment-3](/images/assign3_1.png)
 
 
--[**Site 1 Link**](websites/Site 1/htmlfive.html) 
-![Site-1](/images/website1.png)
-
--[**Site 2 Link**](websites/Site 2/flowers.html)
-![Site-2](/images/site2.png)
+## JS Assignment
 
 -[**Site 3 Banking Project Link**](websites/Site 3/index_sign-in.html)
 
@@ -59,3 +56,18 @@ Use **Username** shubhendu and **Password** abc123
 ![Site-3](/images/site3_home.png)
 **Banking Page**
 ![Site-3](/images/site3_transactionspage.png)
+
+## Neumorphic Analog Clock
+
+**Light Mode**
+![light-mode](/images/light.png)
+**Dark Mode**
+![dark-mode](/images/dark.png)
+
+## HTML CSS Assignments
+
+-[**Site 1 Link**](websites/Site 1/htmlfive.html) 
+![Site-1](/images/website1.png)
+
+-[**Site 2 Link**](websites/Site 2/flowers.html)
+![Site-2](/images/site2.png)
