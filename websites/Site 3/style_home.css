@@ -1,0 +1,233 @@
+body {
+    height: 732px;
+    width: 1510px;
+    border: solid;
+    border-color: darkred;
+    border-width: 3px;
+    background-image: url(fabian-blank-pElSkGRA2NU-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: 1510px 732px;
+    background-position: 10px 10px;
+    color: rgb(0, 0, 0);
+}
+
+#container {
+    height: 732px;
+    width: 1510px;
+}
+
+header {
+    height: 60px;
+    width: 1505px;
+    margin: 3px;
+    /* background-color: honeydew; */
+    background: rgba(7, 224, 195, 0.8);
+    border-radius: 5px;
+    padding-top: 1px;
+}
+
+.logo {
+    padding: 0px;
+    margin-left: -180px;
+    height: 60px;
+    width: 530px;
+    /* background: rgba(0, 17, 255, 0.4); */
+    border-radius: 10px;
+}
+
+#logo-img {
+    height: 55px;
+    width: 130px;
+    border-radius: 8px;
+}
+
+#title{
+    float: right;
+    height: 30px;
+    width: 250px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin: 10px;
+}
+
+.dateholder{
+    float: left;
+    margin-left: 2px;
+    margin-top: -42px;
+    height: 40px;
+    width: 350px;
+    font-weight: bold;
+}
+
+#head_info{
+    margin-top: -42px;
+    height: 40px;
+    width: 350px;
+    float: right;
+    font-size: 18px;
+}
+
+#top_usernm{
+    margin:0px;
+    position: relative;
+    font-weight: bold;
+}
+
+#status{
+    margin:0px;
+    float: right;
+    position: static;
+    margin-right: 5px;
+    font-weight: bold;
+}
+
+nav {
+    height: 60px;
+    width: 1510px;
+    border-radius: 35%;
+    background-color: wheat;
+}
+
+nav a {
+    float: left;
+    color: darkred;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 500;
+    padding: 15px 90px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+nav a:hover , .dropdown:hover {
+    background-color: orange;
+    border-radius: 55%;
+    font-weight: bolder;
+    color: darkred;
+}
+
+/* div having unordered list */
+.dropdown{
+    position: relative;
+    display: inline-block;
+}
+
+.contact_btn a{
+    margin: 0px;
+    padding: 0px;
+}
+
+/* Dropdown Content */
+.contact_list{
+    list-style-type: none;
+    position: absolute;
+    margin: 0px;
+    padding: 0px;
+    display: none;
+    min-width: 150px;
+}
+/* Links inside dropdown */
+.contact_list a{
+    color: darkred;
+    background-color: honeydew;
+    font-weight: bolder;
+    text-decoration: none;
+    display: block;
+}
+/* change color dropdown links on hover */
+.contact_list a:hover{
+    color: orange;
+    /* background-color: honeydew; */
+    background-color: maroon;
+    font-weight: bolder;
+}
+
+/* show dropdown on hover */
+.dropdown:hover .contact_list{
+    display: block;
+    margin-top: 60px;
+}
+
+.cli{
+    height: 18px;
+    width: 130px;
+}
+
+section {
+    height: 250px;
+    margin-top: 5px;
+    margin-left: 3px;
+    width: 748px;
+    color: black;
+    border-radius: 5px;
+    background-color: rgba(255, 245, 109, 0.4);
+    background-image: url(undraw_fireworks_q5ji.svg);
+    background-size: 748px 250px;
+}
+
+.notify {
+    width: 350px;
+    height: 190px;
+    margin-left: 4px;
+    /* background: rgba(255, 174, 0, 0.4); */
+    border-radius: 5px;
+}
+
+#img-notice {
+    height: 35px;
+    width: 190px;
+    margin-top: 5px;
+    float: left;
+}
+
+#notifications{
+    margin: 0px;
+    height: 90px;
+    width: 350px;
+}
+
+#notifications a{
+    color: maroon;
+    font-size: 14px;
+}
+
+#notifications a:hover{
+    color: blue;
+    font-size: 16px;
+}
+
+
+article {
+    height: 250px;
+    margin-top: 5px;
+    margin-left: 3px;
+    width: 748px;
+    color: black;
+    border-radius: 5px;
+    background-color: rgba(255, 245, 109, 0.4);
+    background-image: url(undraw_Savings_dwkw.svg);
+    background-size: 748px 250px;
+}
+
+aside {
+    float: right;
+    margin-top: -505px;
+    margin-right: 3px;
+    height: 505px;
+    width: 748px;
+    color: black;
+    border-radius: 5px;
+    background: rgba(118, 255, 77, 0.4);
+    background-image: url(undraw_pay_online_b1hk.svg);
+    background-position: 220px 255px;
+    background-size: 748px 250px;
+    background-repeat: no-repeat;
+}
+
+footer {
+    height: 90px;
+    width: 1505px;
+    margin: 3px;
+    color: black;
+    border-radius: 5px;
+    background-color: rgba(30, 143, 255, 0.4);
+}
